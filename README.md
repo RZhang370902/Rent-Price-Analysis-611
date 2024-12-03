@@ -65,8 +65,5 @@ The models were evaluated based on their R2 scores. Here are the results:
 ## Acknowledgments
 
 - Instructor: Dr. L. Dawson
-- Contributors: Cory Wu (UCID: 30201698), Rick Zhang (UCID: 302578270)
+- Contributors: Cory Wu, Rick Zhang
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
